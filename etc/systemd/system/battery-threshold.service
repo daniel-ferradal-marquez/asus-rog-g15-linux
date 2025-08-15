@@ -3,7 +3,7 @@ Description=Script to force battery charge threshold at boot time
 After=default.target
 
 [Service]
-ExecStart=/usr/local/bin/battery_threshold_70.bash
+ExecStart=/usr/local/bin/battery_threshold.bash
 
 [Install]
 WantedBy=default.target
