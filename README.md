@@ -1,5 +1,7 @@
 ### Collection of Scripts I use for 2021 Asus ROG Strix G15 under Linux with systemd
 
+I started using this laptop with Debian 12 and no upgraded to Debian 13, no flaws.
+
 If I start using something else I will add it here.
 
 Note this laptop in my experience works well only with nvidia propietary driver.
