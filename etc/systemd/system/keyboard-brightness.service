@@ -1,0 +1,9 @@
+[Unit]
+Description=Script to force keyboard brightness threshold at boot time
+After=default.target
+
+[Service]
+ExecStart=/usr/local/bin/keyboard_led_brightness.sh
+
+[Install]
+WantedBy=default.target
